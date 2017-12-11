@@ -34,7 +34,6 @@ class Day2Dot1 : AdventOfCode {
         }
         println("Day2Dot1 Solution: %d".format(solution))
     }
-
 }
 
 class Day2Dot2 : AdventOfCode {
@@ -57,7 +56,6 @@ class Day2Dot2 : AdventOfCode {
         }
         println("Day2Dot1 Solution: %d".format(solution))
     }
-
 }
 
 fun main(args: Array<String>) {
