@@ -48,7 +48,7 @@ class Day2Dot2 : AdventOfCode {
                     val int2 = cell2.toInt()
                     if ((int1 != int2) &&
                             (int1 % int2 == 0)) {
-                        val divider =int1 / int2
+                        val divider = int1 / int2
                         solution += divider
                     }
                 }
